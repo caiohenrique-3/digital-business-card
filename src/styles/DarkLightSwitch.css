@@ -1,0 +1,22 @@
+header > button {
+  background-color: transparent;
+  border: none;
+  display: flex;
+  font-size: 1.5rem;
+}
+
+header > button:hover {
+  cursor: pointer;
+}
+
+header > button > i {
+  padding-block-start: 0.2rem;
+}
+
+#light-mode-button {
+  color: yellow;
+}
+
+#dark-mode-button {
+  color: purple;
+}
