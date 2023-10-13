@@ -46,6 +46,7 @@ project:
 - [Fork Awesome](https://forkaweso.me/Fork-Awesome/)
 - [Google Webfonts Helper](https://gwfh.mranftl.com/fonts)
 - [Coolors](https://coolors.co/)
+- [Deploying to Github Pages? Don't Forget to Fix Your Links](https://maximorlov.com/deploying-to-github-pages-dont-forget-to-fix-your-links/)
 
 ## License
 
